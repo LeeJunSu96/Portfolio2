@@ -1,0 +1,25 @@
+nav{
+    z-index: 99;
+}
+
+.skill-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    /* vh = view height 보이는 브라우저 높이의 크기 */
+}
+
+.carousel-item img{
+    height: 100vh;
+}
+
+.sort-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    border:1px solid #dddddd;
+}
